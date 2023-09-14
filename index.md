@@ -7,3 +7,6 @@ Have index.md to use a h1 tag
 var myVar = "Hello, world!"
 ```
 
+- [x] Header
+- [x] Added image
+- [ ] Finish a 2 day long playlist
